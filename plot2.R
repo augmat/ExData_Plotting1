@@ -1,5 +1,5 @@
 #############################################################
-# Description: Creates a PNG file that contains an histogram 
+# Description: Creates a PNG file that contains a plot. 
 # Course : Exploratory Data Analysis - Project 1
 #############################################################
 
